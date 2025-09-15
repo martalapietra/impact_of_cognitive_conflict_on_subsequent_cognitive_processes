@@ -3,6 +3,6 @@ Data and analysis scripts for the Registered Report Stage 2 titled "Exploring th
 
 # Folders
 This repository contains two main folders:
-1. **data**: cleaned data from all experiments and pilot experiments;
-2. **analysis**: R scripts for model creation, data analysis and visualisation.
+1. **data**: cleaned data from all experiments;
+2. **analysis**: Python and R scripts for data analysis and visualisation.
 
