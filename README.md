@@ -1,5 +1,5 @@
 # Registered Report Stage 2: Exploring the impact of cognitive conflict on subsequent cognitive processes
-Data and analysis scripts for the Registered Report Stage 2 titled "Exploring the impact of cognitive conflict on subsequent cognitive processes" (https://doi.org/10.31234/osf.io/yva9j_v4).
+Data and analysis scripts for the Registered Report Stage 2 titled "Exploring the impact of cognitive conflict on subsequent cognitive processes" - DOI: https://doi.org/10.31234/osf.io/yva9j_v4.
 
 # Folders
 This repository contains two main folders:
