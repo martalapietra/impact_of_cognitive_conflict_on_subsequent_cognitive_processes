@@ -5,6 +5,5 @@ This research is supported through the SweetC project (PID2020-114717RA-I00 /AEI
 
 # Folders
 This repository contains two main folders:
-1. **data**: cleaned data from all experiments;
-2. **analysis**: Python and R scripts for data analysis and visualisation.
+1. **analysis**: Python and R scripts for data analysis and visualisation.
 
